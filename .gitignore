@@ -1,6 +1,6 @@
 # custom excludes
 data/**
-!data/.gitkeep
+!data/.htaccess
 scratch/
 
 # swap files
